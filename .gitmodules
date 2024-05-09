@@ -1,0 +1,6 @@
+[submodule "genius_gate"]
+	path = genius_gate
+	url = git@github.com:smkdev-id/genius_gate.git
+[submodule "swe_csharp"]
+	path = swe_csharp
+	url = git@github.com:pandohansamuel19/swe_csharp.git
